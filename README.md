@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Sandro dos Santos</h1>
+<h3>Desenvolvedor Front End</h3>
+<h4>contato@sandrosantos.dev.br - WhatsApp: 11 93411-9539</h4>
+<br>
+<a href="https://www.linkedin.com/in/san-santos/">
+  <img width="32px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/>
+</a>
+<br><br>
+<h3>💼  Projetos que estou trabalhando atualmente:</h3>
 
-<!--
-**san-santos/san-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- https://github.com/san-santos/zucche-comercio-alimentos/tree/master
 
-Here are some ideas to get you started:
+<h3>👨‍🎓 Minha Formação:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MBA em Design de Serviços CX, UX e CS - Galicia Educação – 2023-2024.
+- Bootcamp MRV Front-End Developer - DIO Digital Innovation One – 2021-2021.
+-	MBA em Projetos de Aplicações Digitais - Anhanguera Educacional – 2020-2020.
+-	Tecnólogo em Marketing - Anhanguera Educacional – 2018-2019.
+
+ 
