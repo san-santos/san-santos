@@ -1,5 +1,5 @@
 <h1>Sandro dos Santos</h1>
-<h3>Desenvolvedor Front End</h3>
+<h3>Desenvolvedor de front-end | Experiência em desenvolvimento web responsivo | HTML | CSS | SCSS | JavaScript | Bootstrap | Tailwind | jQuery | React | Next | Node | SQL | UI | UX</h3>
 <h4>contato@sandrosantos.dev.br - WhatsApp: 11 93411-9539</h4>
 <br>
 <a href="https://www.linkedin.com/in/san-santos/">
